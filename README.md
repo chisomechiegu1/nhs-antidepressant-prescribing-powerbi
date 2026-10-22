@@ -261,6 +261,6 @@ These recommendations are data-driven observations for discussion by analysts an
 **Anthony**
 Medical Laboratory Scientist | Data Analyst
 
-[GitHub](https://github.com/chisomechiegu1) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/chisomechiegu1) · [LinkedIn](https://www.linkedin.com/in/chisom-emma-echiegu-ab77023a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 *Data source: NHS Business Services Authority, Prescription Cost Analysis, opendata.nhsbsa.net.*
