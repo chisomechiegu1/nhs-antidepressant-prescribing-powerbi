@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing five years of antidepressant prescribing across NHS England, covering national volume, cost, drug-level patterns and regional variation.
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ## Background
 
@@ -76,13 +76,13 @@ This analysis supports two NHS strategic goals: the 10 Year Health Plan's focus 
 ## Dashboard Screenshots
 
 ### Regional Performance
-![Regional Performance](images/regional_performance.png)
+![Regional Performance](regional_performance.png)
 
 ### Drug Analysis
-![Drug Analysis](images/drug_analysis.png)
+![Drug Analysis](drug_analysis.png)
 
 ### Monthly Trends
-![Monthly Trends](images/monthly_trends.png)
+![Monthly Trends](monthly_trends.png)
 
 ## How to Use
 
